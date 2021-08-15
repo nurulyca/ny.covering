@@ -1,0 +1,95 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Farhah Khimar Baby Blue",
+          "price": 100000,
+          "size" : "M",
+          "image": { "fields": { "file": { "url": "./images/det1.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Farhah Khimar Candy Pink",
+          "price": 100000,
+          "size" : "M",
+          "image": { "fields": { "file": { "url": "./images/det4.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Misha Khimar Coffee",
+          "price": 80000,
+          "size" : "M",
+          "image": { "fields": { "file": { "url": "./images/det7.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Misha Khimar Nude",
+          "price": 80000,
+          "size" : "M",
+          "image": { "fields": { "file": { "url": "./images/det10.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Farhah Khimar Rugby Tan",
+          "price": 150000,
+          "size" : "L",
+          "image": { "fields": { "file": { "url": "./images/det13.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Farhah Khimar Peach Beige",
+          "price": 100000,
+          "size" : "M",
+          "image": { "fields": { "file": { "url": "./images/det16.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Kahla Hijab",
+          "price": 79000,
+          "size" : "150 cm",
+          "image": { "fields": { "file": { "url": "./images/det21.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Shayla Tie-Dye Dress",
+          "price": 160000,
+          "size": "All size",
+          "image": { "fields": { "file": { "url": "./images/det22.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "9" },
+        "fields": {
+          "title": "Zara Abaya Black Series",
+          "price": 229000,
+          "size": "All size",
+          "image": { "fields": { "file": { "url": "./images/det25.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "10" },
+        "fields": {
+          "title": "Zara Abaya Color Series",
+          "price": 229000,
+          "size": "All size",
+          "image": { "fields": { "file": { "url": "./images/det33.jpg" } } }
+        }
+      }
+    ]
+  }
+  
